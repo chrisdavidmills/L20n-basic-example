@@ -1,0 +1,10 @@
+{
+  "locales": [
+    "en-US",
+    "pl"
+  ],
+  "default_locale": "en-US",
+  "resources": [
+    "{{locale}}/greeting.l20n"
+  ]
+}
