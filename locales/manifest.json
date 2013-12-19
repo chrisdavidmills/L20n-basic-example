@@ -5,6 +5,6 @@
   ],
   "default_locale": "en-US",
   "resources": [
-    "{{locale}}/greeting.l20n"
+    "{{locale}}/hello.l20n"
   ]
 }
